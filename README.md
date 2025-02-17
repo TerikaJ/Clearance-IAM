@@ -7,7 +7,7 @@
 
 ## Overview
 
-This document provides an overview of government security clearances and their critical role in Identity and Access Management (IAM). Understanding how clearances intersect with IAM practices is essential for maintaining secure access to sensitive systems and data.
+This documentation provides an overview of government security clearances and their critical role in Identity and Access Management (IAM). Understanding how clearances intersect with IAM practices is essential for maintaining secure access to sensitive systems and data.
 
 ## What Are Government Clearances?
 
