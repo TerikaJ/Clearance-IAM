@@ -1,4 +1,4 @@
-# Role of Government Clearances in IAM
+# Government Clearances in IAM
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://www.incharge.org/wp-content/uploads/2015/08/Military-Debt-Security-Clearance.png" alt="Military Debt and Security Clearance" width="400" height="300" style="margin-right: 10px;"/>
