@@ -116,5 +116,5 @@ Implementing best practices for IAM in conjunction with clearances enables organ
 
 <h1><p align=center> DONE! Good job! </p></h1>
 
-<h2><p align=center>The Next Demonstration:<br><a href="https://github.com/terikaj/threat-hunting-tor"> Threat Hunting with Tor </a></p></h2>
+<h2><p align=center>The Next Demonstration:<br><a href="https://github.com/terikaj/osticket-prereqs"> Threat Hunting with Tor </a></p></h2>
 
