@@ -1,7 +1,9 @@
-# Government Clearances and Their Role in Identity and Access Management (IAM)
+# Role of Government Clearances in IAM
 
-<img src="https://www.incharge.org/wp-content/uploads/2015/08/Military-Debt-Security-Clearance.png" alt="Military Debt and Security Clearance" width="400"/>
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://www.incharge.org/wp-content/uploads/2015/08/Military-Debt-Security-Clearance.png" alt="Military Debt and Security Clearance" width="400" height="300" style="margin-right: 10px;"/>
+  <img src="https://media.defense.gov/2020/Jan/21/2002237135/-1/-1/0/200129-D-DV043-1002.PNG" alt="Military Image" width="600" height="300"/>
+</div>
 
 ## Overview
 
