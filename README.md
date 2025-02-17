@@ -40,7 +40,19 @@ Government clearances are official authorizations granted to individuals, allowi
 
 ---
 
+## Common Access Cards (CAC)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Img-card-topology-front.png" alt="Card Topology" width="500" height="300"/>
+
+
+A **Common Access Card (CAC)** is a smart card issued by the U.S. Department of Defense (DoD) to active-duty military personnel, civilian employees, and contractors. It serves as a secure form of identification and is used for accessing government facilities, networks, and systems. The CAC contains a microchip that stores personal identification information, including the individual's security clearance level, and supports multi-factor authentication for access to classified and unclassified systems. The CAC is an essential tool in Identity and Access Management (IAM) for ensuring secure and authorized access in government and defense environments.
+
+---
+
 ## Role of Government Clearances in Identity and Access Management (IAM)
+
+<img src="https://www.csub.edu/its/security/_images/iam-service-components.png" width="600" height="300"/>
+
 
 IAM is the process of ensuring the right individuals have the appropriate access to resources in a system, while safeguarding sensitive data and systems. Government clearances play a vital role in IAM for protecting classified and sensitive information.
 
