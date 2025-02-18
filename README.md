@@ -16,11 +16,11 @@ Government clearances are official authorizations granted to individuals, allowi
 ## Levels of Security Clearances
 
 
-### 1. Confidential  
+1. **Confidential**  
 The lowest level of clearance. This clearance is required to access information that, if disclosed without authorization, could harm national security.  
 
-**Example:**  
-A military logistics officer with a Confidential clearance might have access to basic supply chain details, such as the number of meals or uniforms being shipped to a base. If this information were leaked, it could disrupt planning but would not cause severe damage.
+  **Example:**  
+  A military logistics officer with a Confidential clearance might have access to basic supply chain details, such as the number of meals or uniforms being shipped to a base. If this information were leaked, it could disrupt planning but would not cause severe damage.
 
 ### 2. Secret  
 A higher level of clearance that is required to access information that, if disclosed, could cause serious damage to national security.  
